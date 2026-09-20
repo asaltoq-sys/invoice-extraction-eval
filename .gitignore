@@ -1,0 +1,4 @@
+     results/*_raw.json
+     .env
+     __pycache__/
+     .venv/
