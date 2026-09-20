@@ -1,0 +1,5 @@
+Extract the data from this document and return it as JSON with these keys:
+doc_type, supplier_name, supplier_tax_id, document_number, document_date,
+delivery_note_numbers, order_number, vat_rates, total, lines.
+Each line has quantity, unit_price and line_total.
+Return only the JSON.
